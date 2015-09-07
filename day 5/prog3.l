@@ -1,3 +1,4 @@
+//indent a c code 
 %{
 	int i,inside=0,count=0;
 %}
