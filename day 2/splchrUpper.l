@@ -1,3 +1,4 @@
+/* Convert special characters to spaces in a C code */
 %{
 	#include <stdio.h>
 	int i;
