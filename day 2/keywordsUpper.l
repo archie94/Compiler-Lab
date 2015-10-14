@@ -1,3 +1,4 @@
+/* Convert keywords in a C code to uppercase */
 %{
 	#include <stdio.h>
 	int i;
