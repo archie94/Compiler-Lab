@@ -18,6 +18,10 @@ int main()
 	/* this is a comment
 	// this is ignored
 	*/
+	/*
+	*/
+	
+	/* now we try this /* check */ */
 	return 0;
 }
 
