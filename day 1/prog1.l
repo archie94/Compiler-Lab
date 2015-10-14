@@ -1,3 +1,4 @@
+/* count number of numbers,words,lines and number of words with more than 10 characters */
 %{
 int lines=0,words=0,numbers=0,x=0;
 %}
