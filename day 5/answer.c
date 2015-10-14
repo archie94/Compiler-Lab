@@ -5,7 +5,7 @@ int main()
 	printf();
 	for(i=0;i<n;i++)
 	{
-		 c++;
+		c++;
 		
 	}
 	return 0;
