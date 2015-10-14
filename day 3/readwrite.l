@@ -1,3 +1,4 @@
+/* Convert scanf to read and printf to write respectively */
 %{
 %}
 %%
